@@ -1,7 +1,35 @@
-### Hi there 👋
-## my name is Rizky Sulistyo
+<h2> Hi, I'm Rizky Sulistyo!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=rizkylab&show_icons=true&theme=radical" width="380">
+<p><em>Security Engineer and Bugbounty Hunter <br>
+  Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+</em></p>
 
+[![Twitter: rizkylab](https://img.shields.io/twitter/follow/rizkylab?style=flat-square)](https://twitter.com/rizkylab)
+[![GitHub rizkylab](https://img.shields.io/github/followers/rizkylab?label=follow%20github&style=flat-square)](https://github.com/rizkylab)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rizkylab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rizkylab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rizkylab)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rizkylab/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rizkylab)  
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkylab&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/rizkylab)  
+### More about me...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Job: "Security Engineer and Software Engineer",
+    Pronouns: "He/Him",
+    Code: "Go and NodeJs and Everythings",
+    BestAndFavoriteSkill: "Web Hacking :D"
+  }
+  
+  _ = me
+}
+```
+---
